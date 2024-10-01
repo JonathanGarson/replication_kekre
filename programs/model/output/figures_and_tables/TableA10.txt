@@ -1,0 +1,2 @@
+Budget-balanced			0.6		1.3
+Deficit-financed		0.9		1.4

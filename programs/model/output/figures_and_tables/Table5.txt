@@ -1,0 +1,6 @@
+Avg quarterly MPC out of $500 rebate, emp				0.16	0.17
+Avg quarterly MPC out of $500 rebate, ST unemp			0.36	0.27
+Avg quarterly MPC out of $500 rebate, MT unemp			0.47	0.35
+Avg quarterly MPC out of $500 rebate, LT unemp			0.59	0.43
+Output multiplier										1.1		0.8
+Avg change in unemp rate								-0.02	-0.03

@@ -1,0 +1,13 @@
+Real interest rate										0.020	0.020	znext_g=-8.98
+Wealth to mo income										66.0	66.0	mean(betas)=0.99337
+Frac agents with negative wealth						0.08	0.05	zbar=-0.15
+Avg quarterly MPC out of $500 rebate, income <= 75k		0.21	0.21	Delta=0.00450
+Frac unemp receiving UI									0.39	0.43	zeta=0.5
+Max UI relative to avg wage of UI recipients			0.60	0.59	uimax=0.51
+Avg income unemp HH with UI / pre-job-loss				0.76	0.73	omega1=0.37
+Avg income unemp HH without UI / pre-job-loss			0.55	0.56	omega2=0.50
+Unemp rate												0.050	0.050	phi=0.955
+Share long-term unemp									0.17	0.17	lambda=-0.14
+Duration elast to benefit duration						0.10	0.14	xi=15.0
+Conventional tightness									0.634	0.634	mbar=0.20
+Frac of mo wage to recruit worker						0.108	0.108	k=0.045

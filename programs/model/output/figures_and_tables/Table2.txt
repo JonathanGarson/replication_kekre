@@ -1,0 +1,10 @@
+Avg annual MPC out of mo income rebate, unemp-emp		0.25	0.27
+Ganong-Noel 19 dC/dY at exhaustion						0.20	0.27
+EU on wealth/mo income									-0.0002	-0.0001
+Ganong-Noel 19 cons during receipt						0.91	0.85
+Ganong-Noel 19 cons after exhaustion					0.80	0.77
+Aggregate consumption share, wealth Q5					0.372	0.335
+Aggregate consumption share, wealth Q4					0.224	0.266
+Aggregate consumption share, wealth Q3					0.168	0.211
+Aggregate consumption share, wealth Q2					0.124	0.112
+Aggregate consumption share, wealth Q1					0.113	0.077
