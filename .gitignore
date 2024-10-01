@@ -26,3 +26,4 @@ Manifest.toml
 # Datasets
 *.dta
 *.parquet
+*.mat
